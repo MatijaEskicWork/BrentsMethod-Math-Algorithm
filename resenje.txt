@@ -1,0 +1,2 @@
+Beta je 4.061743837647509
+Maksimalna vrednost funkcije je 5.0
